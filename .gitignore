@@ -1,0 +1,5 @@
+/pocket-pond
+/saves/
+*.o
+*.dSYM/
+.DS_Store
